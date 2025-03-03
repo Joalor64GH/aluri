@@ -1,8 +1,8 @@
 # Counting
-Əlura uses a modified base 10 system based on combinations of numbers.
+Əlʊɹa uses a modified base 10 system based on combinations of numbers.
 
 ## Basic Numbers (0-10)
-| English | Əlura                   |
+| English | Əlʊɹa                   |
 | :-----: | :---------------------: |
 | zero    | ɔʒɛɹ                    |
 | one     | ʌn                      |
@@ -23,7 +23,7 @@ For numbers past ten, you have to follow this structure: <br>
 So for twelve, it would be ʌnʒɛi-ðʊ (one and zero and two). <br>
 This syntax also applies to other numbers in the tens place (20, 30, 40, etc).
 
-| English  | Əlura    |
+| English  | Əlʊɹa    |
 | :------: | :------: |
 | eleven   | ʌnʒɛi-ʌn |
 | twelve   | ʌnʒɛi-ðʊ |
@@ -40,7 +40,7 @@ This syntax also applies to other numbers in the tens place (20, 30, 40, etc).
 ## Beyond 99
 We're basically out of numbers, so all we can do is simple repetition.
 
-| English       | Əlura                  |
+| English       | Əlʊɹa                  |
 | :-----------: | :--------------------: |
 | one hundred   | ʌnʒɛʌnʒɛ (ten and ten) |
 | two hundred   | ðʊʒɛʌnʒɛ               |
@@ -60,11 +60,11 @@ So it would look like: "fɑɹʒɛʌnʒɛi-ðʊʒɛ"
 As a quick bonus, we're not actually out of numbers. <br>
 We simply need to include a new unique number.
 
-| English      | Əlura     |
+| English      | Əlʊɹa     |
 | :----------: | :-------: |
 | one thousand | ʌnsɛnt͡ʃuɹ |
 | two thousand | ðʊsɛnt͡ʃuɹ |
 
 ## Year Example
-The year "2024" in Əlura would be written as:
+The year "2024" in Əlʊɹa would be written as:
 ðʊsɛnt͡ʃuɹi-ðʊʒɛi-fɑɹ (two + thousand + and + twenty + and + four)

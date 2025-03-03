@@ -1,6 +1,6 @@
 # Months and Days
 ## Months
-| English   | Əlura     |
+| English   | Əlʊɹa     |
 | :-------: | :-------: |
 | january   | ʒɛnuɹi    |
 | february  | fɛvuɹi    |
@@ -24,7 +24,7 @@ Examples:
 * ɑũɹil → ɑũ.
 
 ## Days of the Week
-| English   | Əlura     |
+| English   | Əlʊɹa     |
 | :-------: | :-------: |
 | sunday    | sunðɛi    |
 | monday    | munðɛi    |
@@ -42,7 +42,7 @@ Examples:
 * munðɛi → mun.
 
 ## How to Write the Date
-Writing the date in Əlura follows the Year-Month-Day format. <br>
+Writing the date in Əlʊɹa follows the Year-Month-Day format. <br>
 For example, If you wanted to write "June 30, 2025", it would look like:
 * "ðʊsɛnt͡ʃuɹi-ðʊʒɛi-fiθ / juni / θɛʒɛ"
 

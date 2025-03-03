@@ -1,11 +1,11 @@
-# Əlura Basics
-Əlura uses only soft sounds in the English IPA, so harsh or sharp phonemes are completely avoided. <br>
+# Əlʊɹa Basics
+Əlʊɹa uses only soft sounds in the English IPA, so harsh or sharp phonemes are completely avoided. <br>
 It also comes with its own special writing system.
 
 ![](https://github.com/Joalor64GH/alura/blob/main/alura.png?raw=true)
 
 This language also uses a different word order for phrases. <br>
-So, instead of SVO (Subject-Verb-Object) in English, Əlura uses OSV (Object-Subject-Verb).
+So, instead of SVO (Subject-Verb-Object) in English, Əlʊɹa uses OSV (Object-Subject-Verb).
 
 ## Letters
 This language has 17 consonants:
